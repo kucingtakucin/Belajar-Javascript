@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HelloAdam/11LatihanFunction&amp;Array/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloAdam/11LatihanFunction&amp;Array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/10Array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/10Array/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W6kOXGFEFNnlOx4SWZTleAC1R5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HelloAdam/01MenulisJavascript" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.script.js (2)">
+    <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HelloAdam/10Array/script.js" working-dir="$PROJECT_DIR$/HelloAdam/10Array">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HelloAdam/11LatihanFunction&amp;Array/script.js" working-dir="$PROJECT_DIR$/HelloAdam/11LatihanFunction&amp;Array">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HelloAdam/07ElseIf/script.js" working-dir="$PROJECT_DIR$/HelloAdam/07ElseIf">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js (5)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HelloAdam/09Function/script.js" working-dir="$PROJECT_DIR$/HelloAdam/09Function">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HelloAdam/08Switch/script.js" working-dir="$PROJECT_DIR$/HelloAdam/08Switch">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js (2)" />
+        <item itemvalue="Node.js.script.js (1)" />
+        <item itemvalue="Node.js.script.js (5)" />
+        <item itemvalue="Node.js.script.js" />
+        <item itemvalue="Node.js.script.js (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="" />
+      <created>1578477399430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578477399430</updated>
+      <workItem from="1578477403425" duration="1504000" />
+      <workItem from="1579309809892" duration="7312000" />
+      <workItem from="1579404749995" duration="678000" />
+      <workItem from="1579412571821" duration="6167000" />
+      <workItem from="1579426630429" duration="604000" />
+      <workItem from="1579443847167" duration="7765000" />
+      <workItem from="1579485231646" duration="3586000" />
+      <workItem from="1579514948580" duration="9943000" />
+    </task>
+    <task id="LOCAL-00001" summary="Menambahkan materi baru">
+      <created>1579323398131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579323398131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Menambahkan materi baru">
+      <created>1579323433318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579323433319</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Menambahkan materi baru tentang dasar-dasar javascript">
+      <created>1579416483332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579416483332</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Menambahkan materi baru tentang dasar-dasar javascript">
+      <created>1579446199361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579446199361</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Menambahkan materi baru tentang dasar-dasar javascript">
+      <created>1579504423417</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579504423417</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Menambahkan materi baru" />
+    <MESSAGE value="Menambahkan materi baru tentang dasar-dasar javascript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan materi baru tentang dasar-dasar javascript" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1712" y="0" width="864" height="741" key="CommitChangelistDialog2" timestamp="1579504422245">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1712" y="0" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579504422245" />
+    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1579446198707" />
+    <state x="1864" y="278" width="359" height="219" key="Github.ShareDialog" timestamp="1578478310061">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1864" y="278" width="359" height="219" key="Github.ShareDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578478310061" />
+    <state x="1814" y="8" width="459" height="758" key="Github.UntrackedFilesDialog" timestamp="1578478332326">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1814" y="8" width="459" height="758" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1578478332326" />
+    <state width="436" height="538" key="GridCell.Tab.0.bottom" timestamp="1579533487940">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="433" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1579485642399" />
+    <state width="433" height="352" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579507728743" />
+    <state width="436" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579533487940" />
+    <state width="436" height="538" key="GridCell.Tab.0.center" timestamp="1579533487939">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="433" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1579485642398" />
+    <state width="433" height="352" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579507728743" />
+    <state width="436" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579533487939" />
+    <state width="436" height="538" key="GridCell.Tab.0.left" timestamp="1579533487938">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="433" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1579485642398" />
+    <state width="433" height="352" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579507728742" />
+    <state width="436" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579533487938" />
+    <state width="436" height="538" key="GridCell.Tab.0.right" timestamp="1579533487939">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="433" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1579485642398" />
+    <state width="433" height="352" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579507728743" />
+    <state width="436" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579533487939" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1579318861576">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1579318861576" />
+    <state x="1857" y="355" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1579504435069">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1857" y="355" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579504435069" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579420610031">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1579420610031" />
+  </component>
+</project>
