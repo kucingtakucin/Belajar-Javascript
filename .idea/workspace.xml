@@ -1,82 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="Menambahkan materi baru tentang dasar-dasar javascript">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloAdam/12Object/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloAdam/12Object/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloAdam/13LatihanObject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloAdam/13LatihanObject/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/01PengantarDOM/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/01PengantarDOM/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/01PengantarDOM/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/01PengantarDOM/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/02DOMSelection/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/02DOMSelection/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/02DOMSelection/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/02DOMSelection/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/02DOMSelection/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/03DOMManipulation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/03DOMManipulation/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/03DOMManipulation/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/03DOMManipulation/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/03DOMManipulation/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/04DOMEvents/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/04DOMEvents/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/04DOMEvents/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/04DOMEvents/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/04DOMEvents/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/05LatihanDOM1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/05LatihanDOM1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/05LatihanDOM1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/05LatihanDOM1/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/05LatihanDOM1/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/img/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/img/gajah.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/img/orang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/img/semut.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lainlain/__MACOSX/img/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lainlain/__MACOSX/img/._bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lainlain/__MACOSX/img/._gajah.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lainlain/__MACOSX/img/._orang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lainlain/__MACOSX/img/._semut.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lainlain/img-suwit-jawa.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lainlain/img/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lainlain/img/gajah.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lainlain/img/orang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lainlain/img/semut.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/Adam_Arthur_Faizal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/Adam_Arthur_Faizal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/Mbah_Putih_Mulyosugito.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/Mbah_Putih_Mulyosugito.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+    <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/07DOMTransversal/img/naruto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/07DOMTransversal/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/07DOMTransversal/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/07DOMTransversal/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/img/naruto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/img/orochimaru2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/img/sasuke2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/img/tobirama2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/naruto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/orochimaru2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/sasuke2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/tobirama2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/style.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/01MenulisJavascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/01MenulisJavascript/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/01MenulisJavascript/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/01MenulisJavascript/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/02PopUp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/02PopUp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/02PopUp/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/02PopUp/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/03ControlFlow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/03ControlFlow/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/03ControlFlow/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/03ControlFlow/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/04WhileLoop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/04WhileLoop/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/04WhileLoop/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/04WhileLoop/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/05ForLoop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/05ForLoop/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/05ForLoop/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/05ForLoop/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/06IfElse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/06IfElse/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/06IfElse/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/06IfElse/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/07ElseIf/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/07ElseIf/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/07ElseIf/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/07ElseIf/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/08Switch/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/08Switch/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/08Switch/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/08Switch/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/09Function/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/09Function/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/09Function/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/09Function/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/10Array/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/10Array/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/10Array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/10Array/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/11LatihanFunction&amp;Array/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/11LatihanFunction&amp;Array/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/11LatihanFunction&amp;Array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/11LatihanFunction&amp;Array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavascriptDOM/07DOMTransversal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavascriptDOM/07DOMTransversal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavascriptDOM/07DOMTransversal/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavascriptDOM/07DOMTransversal/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +68,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavascriptDOM/09EventBubbling" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -130,6 +80,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling" />
+      <recent name="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/img" />
+      <recent name="$PROJECT_DIR$/JavascriptDOM/08PreventDefault" />
+      <recent name="$PROJECT_DIR$/JavascriptDOM/07DOMTransversal/img" />
       <recent name="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -196,7 +150,9 @@
       <workItem from="1579585299273" duration="19806000" />
       <workItem from="1579623646717" duration="4506000" />
       <workItem from="1579662043457" duration="13218000" />
-      <workItem from="1579700458443" duration="9096000" />
+      <workItem from="1579700458443" duration="13183000" />
+      <workItem from="1579745609617" duration="3204000" />
+      <workItem from="1579758500433" duration="2600000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -240,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579533516934</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Menambahkan materi baru tentang DOM pada Javascript">
+      <created>1579709704620</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579709704620</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +216,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Menambahkan materi baru" />
     <MESSAGE value="Menambahkan materi baru tentang dasar-dasar javascript" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan materi baru tentang dasar-dasar javascript" />
+    <MESSAGE value="Menambahkan materi baru tentang DOM pada Javascript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan materi baru tentang DOM pada Javascript" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="58" width="810" height="686" key="#CSS" timestamp="1579590650562">
@@ -272,11 +236,11 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579586744655" />
-    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1579628310919">
+    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1579709703913">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1712" y="0" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579504422245" />
-    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1579628310919" />
+    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1579709703913" />
     <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1579628328737">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -325,9 +289,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1579600028150" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579707715382">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579746594911">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1579707715382" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1579746594911" />
   </component>
 </project>
