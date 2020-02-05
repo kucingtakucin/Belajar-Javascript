@@ -1,0 +1,64 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal
+ */
+
+@keyframes fade {
+  to {
+    opacity: 1;
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+body {
+  background-color: #cccccc;
+  text-align: center;
+}
+
+.fade-in {
+  opacity: 0;
+  animation: fade 1s forwards;
+}
+
+.active {
+  opacity: 0.5;
+}
+
+.container {
+  width: 800px;
+  margin: 20px auto;
+  border: 10px solid white;
+  overflow: auto;
+}
+.container .thumbnail .thumb {
+  width: 200px;
+  float: left;
+  border: 2px solid white;
+  box-sizing: border-box;
+  transition: 0.5s;
+}
+.container .thumbnail .thumb:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+@keyframes fade {
+  to {
+    opacity: 1;
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+body {
+  background-color: #cccccc;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */

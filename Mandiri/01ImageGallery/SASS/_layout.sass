@@ -1,0 +1,26 @@
+/*!
+ / Copyright (c) 2020. Adam Arthur Faizal
+ /
+@import "variable"
+@include Animasi
+@include Active
+
+*
+    @extend %Reset
+body
+    @extend %StandardBody
+.container
+    width: 800px
+    margin: 20px auto
+    border: 10px solid white
+    overflow: auto
+    .thumbnail
+        .thumb
+            width: 200px
+            float: left
+            border: 2px solid white
+            box-sizing: border-box
+            transition: 0.5s
+        .thumb:hover
+            opacity: 0.5
+            cursor: pointer
