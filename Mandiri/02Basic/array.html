@@ -1,0 +1,53 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal
+  -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Belajar Javascript</title>
+
+  <style>
+    #wrap{
+      background: black;
+      color: white;
+      font-size: 25px;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="koala.png" alt="">
+  <div id="wrap"></div>
+
+  <script>
+
+    //tipe data array
+    // array dimulai dari angka 0
+    // var kotak = ["hilman", 12, "tiqa"];
+    // kotak[1]  = "endy";
+    //
+    // var text = "Namanya adalah " + kotak[1];
+    // document.getElementById("wrap").innerHTML = text;
+
+    //sort, reverse, concat, length, join("separator"),
+    var namaOrang = ["hilman", "endy", "tiqa", "andi"];
+    var namaOrang2= ["koko", "kaka"];
+    var namaOrang3= ["jeffry", "alex"];
+
+    //splice->add(mulai, dihapus?, isi), splice->remove
+    //pop, push, shift(), unshift(),
+
+    //namaOrang.splice(2, 0, "emmy", "abdullah");
+    //namaOrang.splice(2, 1);
+
+    namaOrang.pop();
+    namaOrang.push("emmy");
+
+    namaOrang.shift();
+    namaOrang.unshift("abdullah");
+
+    document.getElementById("wrap").innerHTML = namaOrang;
+  </script>
+</body>
+</html>

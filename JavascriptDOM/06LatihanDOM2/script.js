@@ -42,7 +42,6 @@ pilihan.forEach(function (e) {
         setTimeout(function () {
             const gambarComputer = document.querySelector('.container .area-computer .img-computer');
             gambarComputer.setAttribute('src', 'img/' + pilihanComputer + '.png');
-
             const info = document.querySelector('.container .info');
             info.innerHTML = hasil;
         }, 1000);

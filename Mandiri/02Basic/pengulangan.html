@@ -1,0 +1,56 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal
+  -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Belajar Javascript</title>
+
+  <style>
+    #wrap{
+      background: black;
+      color: white;
+      font-size: 25px;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="koala.png" alt="">
+  <div id="wrap"></div>
+
+  <script>
+    //pengulangan
+
+    //1.for loop
+    //for(mulai; sampai/syarat; perpindahan)
+    // for(var i=1; i<5; i++){
+    //     alert(i);
+    // }
+
+    //2. while loop
+    //while(syarat){
+      //apa yang mau dilakukan
+    //}
+    var i    = 6;
+    var text = "";
+
+    // while( i < 5 ){
+    //   text += "<br>angkanya adalah " + i ;
+    //   i++;
+    // }
+
+    //do while
+    do{
+      text += "<br>angkanya adalah " + i ;
+      i++;
+    }
+    while( i < 5 );
+
+    document.getElementById('wrap').innerHTML = text;
+
+
+  </script>
+</body>
+</html>

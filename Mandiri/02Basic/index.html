@@ -1,0 +1,82 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal
+  -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Belajar Javascript</title>
+
+  <style>
+    #wrap{
+      background: black;
+      color: white;
+      font-size: 25px;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="koala.png" alt="">
+  <div id="wrap"></div>
+
+  <script>
+
+    //Deklarasi Variable
+    //--------------------
+    // Nama dimulai dengan huruf atau $ atau _
+    // Nama boleh mengandung huruf, angka, underscore _ dan $ dollatr
+    // Nama itu case sensitive
+    // Ada 'reserved words' yang tidak boleh dipakai
+
+    //tipe-data string
+    var text  = "sekolah koding";
+    var text2 = " yang baru";
+    //tipe-data number/angka
+    var angka  = 1000;
+    var angka2 = 123.123123123;
+    var angka3 = 1003
+
+    //mengubah vairabel
+    text2 = " yang lama";
+
+    //operator matematika + - / * %
+    // var angka_baru = angka / angka2;
+
+    //angka_baru++; //increment //menjumlahkan dengan 1
+    //angka--;      //decrement //mengurangi dengan 1
+
+    //penulisan singkat
+    // angka2 = angka2 + angka;
+    //angka2 += angka;
+
+    //-----metode number------
+    // toFixed(n) toString() random() min(a, b, c) max(a, b, c)
+    //var angka_baru = Math.max( angka, angka2, angka3);
+
+    //round() ceil() floor() Object Methods(contoh: abs, log) r
+    //random spesific formula ->  Math.floor(Math.random()*x) + 1;
+    var x = 10 ; //range .jarak
+    var y = 5 ; //batas minimal
+    // batas max = y+x;
+    var angka_baru = Math.floor( Math.random() * x) + y;
+
+
+    //-----metode string------
+    // length indexOf lastIndexof search charAt
+    // toUpperCase() toLowerCase() replace
+    // substring(start, end), substr(start, length)
+    // parseInt parseFloat
+    var nama  = "120.50";
+    var hasil = parseFloat(nama);
+
+
+
+    /*
+    1. memilih id wrap
+    2.metode innerHTML = nulis konten
+    */
+    document.getElementById("wrap").innerHTML = hasil;
+  </script>
+</body>
+</html>
