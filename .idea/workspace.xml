@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mandiri/02Basic/array.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/03OOP/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/01MenulisJavascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/01MenulisJavascript/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/01MenulisJavascript/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/01MenulisJavascript/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/02PopUp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/02PopUp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/02PopUp/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/02PopUp/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/03ControlFlow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/03ControlFlow/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/03ControlFlow/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/03ControlFlow/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/04WhileLoop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/04WhileLoop/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/04WhileLoop/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/04WhileLoop/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/05ForLoop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/05ForLoop/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/05ForLoop/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/05ForLoop/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/06IfElse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/06IfElse/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/06IfElse/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/06IfElse/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/07ElseIf/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/07ElseIf/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/07ElseIf/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/07ElseIf/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/08Switch/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/08Switch/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/08Switch/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/08Switch/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/09Function/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/09Function/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/09Function/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/09Function/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/10Array/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/10Array/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/10Array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/10Array/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/11LatihanFunction&amp;Array/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/11LatihanFunction&amp;Array/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/11LatihanFunction&amp;Array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/11LatihanFunction&amp;Array/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/12Object/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/12Object/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/12Object/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/12Object/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/13LatihanObject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/13LatihanObject/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/13LatihanObject/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/13LatihanObject/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavascriptDOM/06LatihanDOM2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mandiri/02Basic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mandiri/03OOP" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -90,11 +63,11 @@
       <recent name="$PROJECT_DIR$/HelloAdam/01MenulisJavascript" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mandiri/03OOP" />
+      <recent name="$PROJECT_DIR$/Mandiri/02Basic" />
       <recent name="$PROJECT_DIR$/Mandiri/01ImageGallery" />
       <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/full" />
       <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling" />
-      <recent name="$PROJECT_DIR$/JavascriptDOM/08PreventDefault/img" />
-      <recent name="$PROJECT_DIR$/JavascriptDOM/08PreventDefault" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.script.js (2)">
@@ -126,7 +99,6 @@
       <list>
         <item itemvalue="Node.js.script.js (2)" />
         <item itemvalue="Node.js.script.js (1)" />
-        <item itemvalue="Node.js.script.js (5)" />
         <item itemvalue="Node.js.script.js" />
         <item itemvalue="Node.js.script.js (4)" />
       </list>
@@ -176,7 +148,8 @@
       <workItem from="1583932881470" duration="2466000" />
       <workItem from="1584162841464" duration="2465000" />
       <workItem from="1584250817435" duration="59000" />
-      <workItem from="1584344818278" duration="631000" />
+      <workItem from="1584344818278" duration="872000" />
+      <workItem from="1584350113045" duration="1864000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -241,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580868425145</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Menambahkan materi mandiri">
+      <created>1584345675905</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584345675905</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +236,8 @@
     <MESSAGE value="Menambahkan materi baru tentang dasar-dasar javascript" />
     <MESSAGE value="Menambahkan materi baru tentang DOM pada Javascript" />
     <MESSAGE value="Menyelesaikan materi javascript" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menyelesaikan materi javascript" />
+    <MESSAGE value="Menambahkan materi mandiri" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan materi mandiri" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="58" width="810" height="686" key="#CSS" timestamp="1579590650562">
@@ -275,11 +256,11 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579586744655" />
-    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2" timestamp="1580868424098">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2" timestamp="1584345675038">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="246" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868424098" />
-    <state x="1712" y="0" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579504422245" />
+    <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345675038" />
     <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1579763166040" />
     <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1579628328737">
       <screen x="0" y="27" width="1366" height="741" />
@@ -321,11 +302,11 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1579586711653" />
-    <state x="349" y="271" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1580868445471">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="1857" y="355" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1584345683286">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="349" y="271" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868445471" />
-    <state x="1857" y="355" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579504435069" />
+    <state x="1857" y="355" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345683286" />
     <state x="347" y="174" key="run.anything.popup" timestamp="1579600028150">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
