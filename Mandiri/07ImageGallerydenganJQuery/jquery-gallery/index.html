@@ -1,0 +1,43 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal
+  -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>slider jquery</title>
+    <style>
+      body{
+        width:70%;
+        margin:30px auto;
+      }
+      .container{
+        max-width:400px;
+        margin:0 auto;
+      }
+      .container div{
+        display:none;
+      }
+      .container img{
+        width:100%;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="container">
+      <div style="display:block"> <img src="images/backend.png"/> </div>
+      <div> <img src="images/frontend.png"/> </div>
+      <div> <img src="images/hosting-web.png"/> </div>
+      <div> <img src="images/javascript.png"/> </div>
+    </div>
+
+    <button id="next">Next</button>
+    <button id="prev">Prev</button>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="script.js"></script>
+
+  </body>
+</html>

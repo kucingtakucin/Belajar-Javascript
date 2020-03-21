@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mandiri/06BelajarJQuery/animasi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mandiri/06BelajarJQuery/jquery-dasar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mandiri/06BelajarJQuery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mandiri/06BelajarJQuery/traversing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mandiri/06BelajarJQuery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mandiri/07ImageGallerydenganJQuery" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -155,7 +151,7 @@
       <workItem from="1584350113045" duration="1864000" />
       <workItem from="1584411442537" duration="2239000" />
       <workItem from="1584416987240" duration="2004000" />
-      <workItem from="1584762129215" duration="1689000" />
+      <workItem from="1584762129215" duration="2488000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -234,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584763852078</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Menambahkan belajar JQuery">
+      <created>1584775671045</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584775671045</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +254,8 @@
     <MESSAGE value="Menyelesaikan materi javascript" />
     <MESSAGE value="Menambahkan materi mandiri" />
     <MESSAGE value="menambahkan galery foto bagian 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="menambahkan galery foto bagian 2" />
+    <MESSAGE value="Menambahkan belajar JQuery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan belajar JQuery" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="58" width="810" height="686" key="#CSS" timestamp="1579590650562">
@@ -270,12 +274,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579586744655" />
-    <state x="246" y="27" width="996" height="990" key="CommitChangelistDialog2" timestamp="1584763851140">
+    <state x="246" y="27" width="996" height="990" key="CommitChangelistDialog2" timestamp="1584775670613">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="246" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868424098" />
     <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345675038" />
-    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584763851140" />
+    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584775670613" />
     <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1579628328737">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
