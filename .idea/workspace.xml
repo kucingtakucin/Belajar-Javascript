@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mandiri/03OOP/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/04DOM/attribute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/04DOM/edit_html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/04DOM/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/05ImageGallery2/gambar/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/05ImageGallery2/gambar/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/05ImageGallery2/gambar/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/05ImageGallery2/gambar/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/05ImageGallery2/gambar/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/05ImageGallery2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +53,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mandiri/03OOP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mandiri/05ImageGallery2" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -63,11 +71,11 @@
       <recent name="$PROJECT_DIR$/HelloAdam/01MenulisJavascript" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mandiri/05ImageGallery2" />
+      <recent name="$PROJECT_DIR$/Mandiri/04DOM" />
       <recent name="$PROJECT_DIR$/Mandiri/03OOP" />
       <recent name="$PROJECT_DIR$/Mandiri/02Basic" />
       <recent name="$PROJECT_DIR$/Mandiri/01ImageGallery" />
-      <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/full" />
-      <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.script.js (2)">
@@ -150,6 +158,9 @@
       <workItem from="1584250817435" duration="59000" />
       <workItem from="1584344818278" duration="872000" />
       <workItem from="1584350113045" duration="1864000" />
+      <workItem from="1584411442537" duration="2239000" />
+      <workItem from="1584416987240" duration="2004000" />
+      <workItem from="1584762129215" duration="805000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -256,12 +267,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579586744655" />
-    <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2" timestamp="1584345675038">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state x="246" y="27" width="996" height="990" key="CommitChangelistDialog2" timestamp="1584367797798">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="246" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868424098" />
     <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345675038" />
-    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1579763166040" />
+    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584367797798" />
     <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1579628328737">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

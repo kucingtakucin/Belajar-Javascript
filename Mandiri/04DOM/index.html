@@ -1,0 +1,50 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal
+  -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DOM Javascript</title>
+</head>
+<body>
+  <h1> Belajar DOM Javascript</h1>
+  <img src="astronot.png" width=300>
+
+  <div id="box1">
+
+  </div>
+
+  <div class="boxes"></div>
+  <div class="boxes"></div>
+  <div class="boxes"></div>
+
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+    <div></div>
+  </ul>
+
+  <script>
+    //------------ Selektor ------------------------------------
+    document.getElementById('box1').innerHTML = "Sekolah Koding";
+
+    var boxes = document.getElementsByClassName('boxes');
+    boxes[0].innerHTML = "versi terbaru 1";
+    boxes[1].innerHTML = "versi sebelumnya 2";
+    boxes[2].innerHTML = "versi terlama 3";
+
+    var list = document.getElementsByTagName('li');
+    list[0].innerHTML = "PHP";
+    list[1].innerHTML = "SASS";
+    list[2].innerHTML = "JQuery";
+
+    document.querySelectorAll('#box1')[0].innerHTML = "Koding 123";
+    document.querySelectorAll('.boxes')[0].innerHTML = "Koding 123";
+    document.querySelectorAll('ul div')[0].innerHTML = "Koding 123";
+
+  </script>
+
+</body>
+</html>

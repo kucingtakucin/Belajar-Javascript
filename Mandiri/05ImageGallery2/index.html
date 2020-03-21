@@ -1,0 +1,63 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal
+  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Galeri Javascript</title>
+</head>
+<body>
+  <h1>Galeri Javascript</h1>
+
+  <img src="gambar/0.png" width=400 id="gambar">
+  <br>
+  <div id="caption">Benjamin</div>
+
+  <br>
+  <a href="#" onclick=sebelum()>Sebelum</a>
+
+  <a href="#" onclick="ganti(0)">1</a>
+  <a href="#" onclick="ganti(1)">2</a>
+  <a href="#" onclick="ganti(2)">3</a>
+  <a href="#" onclick="ganti(3)">4</a>
+  <a href="#" onclick="ganti(4)">5</a>
+
+  <a href="#" onclick=sesudah()>Sesudah</a>
+
+  <script>
+
+    var nomor   = 0;
+    var caption = document.getElementById('caption');
+    var text    = ['benjamin', 'voltaire', 'phil', 'leo', 'aristotle'];
+
+    function ganti(angka){
+      nomor = angka;
+      ganti_gambar(angka);
+    }
+
+    function sebelum(){
+      nomor--;
+      if(nomor < 0) nomor = 4;
+      ganti_gambar(nomor);
+    }
+
+    function sesudah(){
+      nomor++;
+      if(nomor > 4) nomor = 0;
+      ganti_gambar(nomor);
+    }
+
+    //refactor fungsi mengganti gambar
+    function ganti_gambar(angka){
+      var lokasi = 'gambar/' + angka + '.png';
+      document.getElementById('gambar').src = lokasi;
+      caption.innerHTML = text[angka];
+      return false;
+    }
+
+
+  </script>
+</body>
+</html>

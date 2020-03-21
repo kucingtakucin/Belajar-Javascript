@@ -1,0 +1,67 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal
+  -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DOM Javascript</title>
+  <style>
+    .merah{
+      background: red;
+    }
+
+    .black{
+      border: 2px solid black;
+    }
+  </style>
+</head>
+<body onload="">
+  <h1> Belajar DOM Javascript</h1>
+  <img onclick = "berubah()" src="astronot.png" width=300 id="gambar" class="black">
+  <input type="text" value="nama" id="input">
+  <input type="submit" id="submit">
+  Namanya adalah <span id="p1"></span>
+  <script>
+    var img = document.getElementById('gambar');
+    img.width = 400;
+
+    //img.setAttribute('class', 'merah');
+    img.className += ' merah';
+
+    var input = document.getElementById('input');
+    input.value = "nama lengkap";
+
+    input.style.border = '3px solid blue';
+    input.style.backgroundColor = 'yellow';
+
+    //-------------- event --------------
+    function berubah(){
+      img.style.backgroundColor = 'yellow';
+    }
+
+    input.onclick = berubah;
+
+    function berubah2(){
+      input.style.backgroundColor = 'blue';
+    }
+
+    input.addEventListener('mouseenter', berubah2);
+
+    input.addEventListener('mouseleave', function(){
+        input.style.backgroundColor = 'red';
+    });
+
+    var submit = document.getElementById('submit');
+    var span   = document.getElementById('p1');
+
+    submit.onclick = function(){
+      var text = input.value;
+      span.innerHTML = text;
+    };
+
+
+  </script>
+
+</body>
+</html>
