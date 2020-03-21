@@ -1,0 +1,71 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal
+  -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Belajar JQuery</title>
+  <style>
+    img{ transform: rotate(180deg); }
+  </style>
+
+  <script src="jquery.js"></script>
+</head>
+<body>
+  <img src="koala_footer.png" alt="">
+  <h1 class="change">Belajar JQuery!! </h1>
+
+  <div id="tester">
+    <div>
+      Div pertama banget
+    </div>
+
+    <div>
+      Div kedua banget
+      <ul>
+        <li>list pertama</li>
+      </ul>
+
+      <ul>
+        <p> paragraf atas </p>
+        <li>Belajar!</li>
+        <li>html</li>
+        <li id="css">css</li>
+        <li>jquery</li>
+        <li>php</li>
+        <li id="db">database</li>
+        <div>
+          <p>paragraf dalam</p>
+          <span>span dalam</span>
+        </div>
+        <span>span luar</span>
+      </ul>
+    </div>
+  </div>
+
+  <script>
+    $(document).ready(function(){
+        //--- traversing ---
+        // $('li').first().css('color', 'red');
+        // $('li').eq(1).css('color', 'red');
+        // $('li').last().css('color', 'blue');
+        //
+        // $('li').filter('#css').css('fontSize', '25px');
+        // $('li').not('#css').css('background', 'yellow');
+
+        //---- siblings next nextAll nextUntil('param') ~ prev
+        // $('#css').siblings().css('fontSize', '20px');
+        // $('#css').nextUntil('#db').css('color', 'red');
+
+        //--- children find parent parents() parentsUntil
+        //$('ul').children('span').css('color', 'red');
+        //$('ul').find('span').css('color', 'red');
+
+        $('#css').parentsUntil('#tester').css('border', '2px solid yellow');
+
+    });
+  </script>
+
+</body>
+</html>

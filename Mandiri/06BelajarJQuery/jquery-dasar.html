@@ -1,0 +1,114 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal
+  -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Belajar JQuery</title>
+  <style>
+    img{ transform: rotate(180deg); }
+
+    #boxes_wrap{
+      background:grey;
+      width:100px;
+      height:100px;
+      padding:10px;
+      border: 5px solid black;
+      margin: 10px;
+    }
+
+    .change{
+      background: yellow;
+      color :red;
+    }
+  </style>
+
+  <script src="jquery.js"></script>
+</head>
+<body>
+  <img src="koala_footer.png" alt="">
+  <h1 class="change">Belajar JQuery!! </h1>
+  <div id="box1">Box 1</div>
+
+  <div id="boxes_wrap">
+    <div class="boxes">Baris pertama</div>
+    <div class="boxes">Baris kedua</div>
+    <div class="boxes">Baris dua koma lima</div>
+    <div class="boxes">Baris ketiga</div>
+  </div>
+
+  <form>
+    <input type="text" id="inputText">
+    <input type="submit">
+  </form>
+
+  <script>
+    //memastikan file sudah diload dengan sempurna
+    $(document).ready(function(){
+
+        //----- selection -----
+        // $('h1').css('color', 'blue');
+        // $('#box1').css('color', 'blue');
+        // $('.boxes').css('color', 'blue');
+        //
+        // $('.boxes:first').css('color', 'red');
+        // $('.boxes:last').css('color', 'aqua');
+        // $('.boxes:eq(2)').css('color', 'red');
+
+        //----- event -----
+        $('h1').click(function(){
+          // $('h1').css({
+          //   'color':'red',
+          //   'fontSize' : '20px',
+          //   'backgroundColor': 'yellow'
+          // });
+          // $('h1').addClass('change');
+          // $('h1').removeClass('change');
+
+          $('h1').toggleClass('change');
+
+        });
+
+        // $('h1').mouseenter(function(){
+        //   $('h1').css('color', 'yellow');
+        // });
+        //
+        // $('h1').mouseleave(function(){
+        //   $('h1').css('color', 'green');
+        // });
+
+        $('.boxes').mouseenter(function(){
+          $(this).css('color', 'green');
+        });
+
+        //--- get dan set nilai ------
+
+        $('form').submit(function(event){
+          var tulisan = $('#inputText').val();
+          $('h1').text( tulisan );
+
+          //mencegah sifat
+          event.preventDefault();
+        });
+
+        //--- menambahkan dan menghapus  ------
+        //append prepend | after before
+        $('#boxes_wrap').before('<div>Halo</div>');
+
+        //remove dan empty
+        //$('#boxes_wrap').remove();
+
+
+        //---- dimensi ---
+        //width -> kontent
+        //innerwidth -> kontent + padding
+        //outerwidth -> kontent + padding + border
+          // (true) -> + margin
+        var nilai = $('#boxes_wrap').height(120).width(120);
+        //$('#box1').text(nilai);
+    });
+  </script>
+
+</body>
+</html>
