@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Library/React/myapp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/10ajaxKomentar/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/10ajaxKomentar/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/10ajaxKomentar/komentar_ajax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/React/myapp/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Library/React/myapp/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/React/myapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Library/React/myapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/09BelajarAJAX/basic/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/09BelajarAJAX/basic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/09BelajarAJAX/jquery/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/09BelajarAJAX/jquery/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Library/React/myapp" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -27,6 +37,17 @@
         <option value="$PROJECT_DIR$/.idea" />
       </set>
     </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1W6kOXGFEFNnlOx4SWZTleAC1R5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -44,7 +65,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mandiri/09BelajarAJAX" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mandiri" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -52,21 +73,23 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mandiri" />
+      <recent name="$PROJECT_DIR$/Mandiri/09BelajarAJAX" />
+      <recent name="$PROJECT_DIR$/Mandiri/07ImageGallerydenganJQuery" />
+      <recent name="$PROJECT_DIR$/Mandiri/06BelajarJQuery" />
+      <recent name="$PROJECT_DIR$/Mandiri/05ImageGallery2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Mandiri/01ImageGallery/SASS" />
       <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/full" />
       <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/thumb" />
       <recent name="$PROJECT_DIR$/HelloAdam/01MenulisJavascript" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Mandiri" />
-      <recent name="$PROJECT_DIR$/Mandiri/07ImageGallerydenganJQuery" />
-      <recent name="$PROJECT_DIR$/Mandiri/06BelajarJQuery" />
-      <recent name="$PROJECT_DIR$/Mandiri/05ImageGallery2" />
-      <recent name="$PROJECT_DIR$/Mandiri/04DOM" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.script.js (2)">
@@ -153,6 +176,8 @@
       <workItem from="1584416987240" duration="2004000" />
       <workItem from="1584762129215" duration="3297000" />
       <workItem from="1584780644341" duration="600000" />
+      <workItem from="1584795012665" duration="1942000" />
+      <workItem from="1585387074686" duration="8317000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -252,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584777839180</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Menambahkan materi ajax">
+      <created>1584795153852</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1584795153852</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,17 +317,22 @@
     <MESSAGE value="Menambahkan belajar JQuery" />
     <MESSAGE value="Membuat image gallery dengan JQuery" />
     <MESSAGE value="Web Interaktif dengan JQuery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Web Interaktif dengan JQuery" />
+    <MESSAGE value="Menambahkan materi ajax" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan materi ajax" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="58" width="810" height="686" key="#CSS" timestamp="1579590650562">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="58" width="810" height="686" key="#CSS/0.27.1366.741@0.27.1366.741" timestamp="1579590650562" />
-    <state x="278" y="27" key="#JavaScript" timestamp="1579597232057">
+    <state x="278" y="59" width="800" height="684" key="#Deployment" timestamp="1584796905059">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="27" key="#JavaScript/0.27.1366.741@0.27.1366.741" timestamp="1579597232057" />
+    <state x="278" y="59" width="800" height="684" key="#Deployment/0.27.1366.741@0.27.1366.741" timestamp="1584796905059" />
+    <state x="278" y="27" key="#JavaScript" timestamp="1585391867206">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="27" key="#JavaScript/0.27.1366.741@0.27.1366.741" timestamp="1585391867206" />
     <state x="278" y="59" width="800" height="684" key="#Sass" timestamp="1579585021407">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -304,12 +341,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579586744655" />
-    <state x="246" y="27" width="996" height="990" key="CommitChangelistDialog2" timestamp="1584777838900">
+    <state x="246" y="27" width="996" height="990" key="CommitChangelistDialog2" timestamp="1584795153197">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="246" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868424098" />
     <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345675038" />
-    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584777838900" />
+    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584795153197" />
     <state x="149" y="76" width="1102" height="613" key="DiffContextDialog" timestamp="1584778160557">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -350,10 +387,10 @@
     <state width="433" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1579485642398" />
     <state width="433" height="352" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579507728743" />
     <state width="436" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579540744780" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1579586711653">
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1584797126105">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1579586711653" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584797126105" />
     <state x="310" y="99" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1584778163912">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

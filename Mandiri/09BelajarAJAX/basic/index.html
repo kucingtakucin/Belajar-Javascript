@@ -1,5 +1,9 @@
+<!--
+  ~ Copyright (c) 2020. Adam Arthur Faizal
+  -->
+
 <!DOCTYPE html>
-<html>
+<html lang="id">
   <head>
     <title>Belajar ajax</title>
   </head>
@@ -11,18 +15,15 @@
     <button id="button">Ambil Data</button>
 
     <script type="text/javascript">
-
-      function load_ajax(url, callback){
+      function loadAjax(url, callback){
         //buat objek xmlhttprequest
-        var xhr = new XMLHttpRequest();
+        const xhr = new XMLHttpRequest();
         xhr.onreadystatechange = cekStatus;
-
         function cekStatus(){
           if( xhr.readyState === 4 && xhr.status === 200 ){
-            callback( xhr.responseText );
+            callback(xhr.responseText);
           }
         }
-
         xhr.open('GET', url, true);
         xhr.send();
       }
@@ -31,7 +32,7 @@
 
         text = document.getElementById('inputText').value;
 
-        load_ajax('data.php?q=' + text, function(data){
+        loadAjax('data.php?q=' + text, function(data){
             document.getElementById('box').innerHTML = data;
         });
       };
