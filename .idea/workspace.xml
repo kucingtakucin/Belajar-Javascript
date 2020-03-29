@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/01ObjectRevisited/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/01ObjectRevisited/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/02ObjectCreate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/02ObjectCreate/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/03Prototype/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/03Prototype/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/04ExecutionContextHoistingScope/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/04ExecutionContextHoistingScope/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/05Closures/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/05Closures/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/06ArrowFunction/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/06ArrowFunction/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/React/myapp" beforeDir="false" afterPath="$PROJECT_DIR$/Library/React/myapp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/React/myapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Library/React/myapp/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +174,7 @@
       <workItem from="1584780644341" duration="600000" />
       <workItem from="1584795012665" duration="1942000" />
       <workItem from="1585387074686" duration="8317000" />
-      <workItem from="1585446910316" duration="6472000" />
+      <workItem from="1585446910316" duration="11905000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -290,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585446987058</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Melanjutkan javascript advance terlebih dahulu">
+      <created>1585453987522</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585453987522</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +330,8 @@
     <MESSAGE value="Web Interaktif dengan JQuery" />
     <MESSAGE value="Menambahkan materi ajax" />
     <MESSAGE value="saatnya belajar library React js" />
-    <option name="LAST_COMMIT_MESSAGE" value="saatnya belajar library React js" />
+    <MESSAGE value="Melanjutkan javascript advance terlebih dahulu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Melanjutkan javascript advance terlebih dahulu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="58" width="810" height="686" key="#CSS" timestamp="1579590650562">
@@ -348,12 +354,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579586744655" />
-    <state x="246" y="27" width="996" height="990" key="CommitChangelistDialog2" timestamp="1585446985057">
+    <state x="246" y="27" width="996" height="990" key="CommitChangelistDialog2" timestamp="1585453987010">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="246" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868424098" />
     <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345675038" />
-    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585446985057" />
+    <state x="246" y="27" width="864" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585453987010" />
     <state x="149" y="76" width="1102" height="613" key="DiffContextDialog" timestamp="1584778160557">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -394,6 +400,10 @@
     <state width="433" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1579485642398" />
     <state width="433" height="352" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579507728743" />
     <state width="436" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579540744780" />
+    <state x="266" y="134" width="824" height="533" key="IDE.errors.dialog" timestamp="1585454150432">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="266" y="134" width="824" height="533" key="IDE.errors.dialog/0.27.1366.741@0.27.1366.741" timestamp="1585454150432" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1584797126105">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
