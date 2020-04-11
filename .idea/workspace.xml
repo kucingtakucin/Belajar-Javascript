@@ -2,146 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/AUTHORS.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/dist/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/dist/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/dist/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/dist/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/dist/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/external/sizzle/dist/sizzle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/external/sizzle/dist/sizzle.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/ajax/jsonp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/ajax/load.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/ajax/parseXML.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/ajax/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/ajax/var/location.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/ajax/var/nonce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/ajax/var/rquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/ajax/xhr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/attributes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/attributes/attr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/attributes/classes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/attributes/prop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/attributes/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/attributes/val.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/callbacks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/DOMEval.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/access.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/camelCase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/isAttached.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/nodeName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/parseHTML.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/ready-no-deferred.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/ready.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/readyException.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/stripAndCollapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/toType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/core/var/rsingleTag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/addGetHookIf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/adjustCSS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/curCSS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/finalPropName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/showHide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/var/cssExpand.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/var/getStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/var/isHiddenWithinTree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/var/rboxStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/css/var/swap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/data/Data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/data/var/acceptData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/data/var/dataPriv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/data/var/dataUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/deferred.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/deferred/exceptionHook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/deprecated.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/dimensions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/effects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/effects/Tween.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/effects/animatedSelector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/event.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/event/ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/event/alias.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/event/focusin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/event/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/event/trigger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/exports/amd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/exports/global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/manipulation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/manipulation/buildFragment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/manipulation/getAll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/manipulation/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/manipulation/wrapMap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/offset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/queue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/queue/delay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/selector-native.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/selector-sizzle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/selector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/serialize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/traversing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/traversing/findFilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/traversing/var/dir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/traversing/var/siblings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/ObjectFunctionString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/arr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/class2type.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/concat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/document.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/documentElement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/fnToString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/getProto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/hasOwn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/indexOf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/isFunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/isWindow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/pnum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/push.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/rcheckableType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/rcssNum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/rnothtmlwhite.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/slice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/var/toString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/jquery/src/wrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/08HigherOrderFunction/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/08HigherOrderFunction/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainMain/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainMain/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainMain/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainMain/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainMain/warty-final-ubuntu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/precache-manifest.ed2a0e2fde9bbe8a941e3b98389d6e9e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/css/2.7ad897a5.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/css/2.7ad897a5.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/css/main.43cc0740.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/css/main.43cc0740.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/js/2.5277abb0.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/js/2.5277abb0.chunk.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/js/2.5277abb0.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/js/main.49eb400a.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/js/main.49eb400a.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/js/runtime-main.8c50e0be.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/js/runtime-main.8c50e0be.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/media/Cuprum-Regular-webfont.8b055f01.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/build/static/media/logo.5d5d9eef.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/Cuprum/Cuprum-Regular-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/Cuprum/Cuprum-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/Cuprum/Cuprum-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/Cuprum/Cuprum-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/Cuprum/Cuprum-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/Cuprum/specimen_files/Cuprum-Regular-cleartype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/Cuprum/specimen_files/grid_12-825-55-15.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/Cuprum/specimen_files/specimen_stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/Cuprum/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/How_to_use_webfonts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/SIL Open Font License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/indie-flower-fontfacekit.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/specimen_files/grid_12-825-55-15.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/specimen_files/specimen_stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/font/IndieFlower/web_fonts/indieflower_regular_macroman/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/11ToDoList/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/React/myapp" beforeDir="false" afterPath="$PROJECT_DIR$/Library/React/myapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/React/myapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Library/React/myapp/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/React/myapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Library/React/myapp/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/React/myapp/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Library/React/myapp/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/PraktikumJQuery/Laporan-Web-Design3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/PraktikumJQuery/Laporan-Web-Design3/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/PraktikumJQuery/Laporan-Web-Design3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/PraktikumJQuery/Laporan-Web-Design3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/PraktikumJQuery/Laporan-Web-Design3/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/PraktikumJQuery/Laporan-Web-Design3/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/PraktikumJQuery/Laporan-Web-Design3/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/PraktikumJQuery/Laporan-Web-Design3/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,13 +88,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
-  </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
     <bower-package value="" />
@@ -184,16 +105,17 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/MainMain" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -255,18 +177,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -309,7 +219,15 @@
       <workItem from="1585387074686" duration="8317000" />
       <workItem from="1585446910316" duration="11905000" />
       <workItem from="1585468439447" duration="10681000" />
-      <workItem from="1585630377430" duration="419000" />
+      <workItem from="1585630377430" duration="814000" />
+      <workItem from="1585793193598" duration="6176000" />
+      <workItem from="1585807686282" duration="19000" />
+      <workItem from="1585807766243" duration="71000" />
+      <workItem from="1586087939712" duration="3594000" />
+      <workItem from="1586142392068" duration="1150000" />
+      <workItem from="1586236499575" duration="9803000" />
+      <workItem from="1586486715607" duration="14285000" />
+      <workItem from="1586582649075" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -430,11 +348,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585453987522</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Melanjutkan javascript advance terlebih dahulu dan juga apa ini">
+      <created>1585630804083</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585630804086</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
@@ -444,13 +369,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -478,6 +402,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="59" width="800" height="684" key="#Deployment/0.27.1366.741@0.27.1366.741" timestamp="1584796905059" />
+    <state x="278" y="27" key="#JSON" timestamp="1586090298644">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="27" key="#JSON/0.27.1366.741@0.27.1366.741" timestamp="1586090298644" />
     <state x="278" y="27" key="#JavaScript" timestamp="1585391867206">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -554,9 +482,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1579600028150" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579770919853">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585797801654">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1579770919853" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1585797801654" />
   </component>
 </project>
