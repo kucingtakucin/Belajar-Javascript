@@ -48,5 +48,47 @@ const elemen2 = `
     </div>
 `;
 
+// Conditionals
+const lagu = {
+    judul: 'Heavy',
+    penyanyi: 'Linkin Park',
+    feat: 'Kiiara'
+}
+
+const elemen3 = `
+    <div class="lagu">
+        <ul>
+            <li>${lagu.penyanyi}</li>
+            <li>${lagu.judul} ${lagu.feat ? `(feat. ${lagu.feat})` : ''}</li>
+        </ul>
+    </div>
+`;
+
+// Nested
+const Mahasiswa3 = {
+    nama: 'Adam Arthur Faizal',
+    semester: 2,
+    mata_kuliah: [
+        'Basis Data', 'OOP', 'Struktur Data', 'Desain Web', 'Desain Grafis'
+    ]
+}
+
+function cetakKuliah(mataKuliah){
+    return `
+        <ol>
+            ${mataKuliah.map(mk => `<li>${mk}</li>`).join('')}
+        </ol>
+    `;
+}
+
+const elemen4 = `<div>
+    <h2>${Mahasiswa3.nama}</h2>
+    <span class="semester">Semester : ${Mahasiswa3.semester}</span>
+    <h4>Mata Kuliah : </h4>
+    ${cetakKuliah(Mahasiswa3.mata_kuliah)}
+</div>`
+
 document.body.innerHTML = elemen;
 document.body.innerHTML += elemen2;
+document.body.innerHTML += elemen3;
+document.body.innerHTML += elemen4;
