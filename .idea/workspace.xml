@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/13TaggedTemplate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/13TaggedTemplate/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/14DestructuringAssignment/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/14DestructuringAssignment/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/15DestructuringFunction/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/15DestructuringFunction/script.js" afterDir="false" />
+    <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="Menyelesaikan materi tentang destructuring assignment dan destructuring function">
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/16ForOfForIn/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/16ForOfForIn/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/17SpreadOperator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/17SpreadOperator/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/18RestParameter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/18RestParameter/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavascriptAdvaced/12LatihanTemplateLiteral/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavascriptAdvaced/12LatihanTemplateLiteral/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavascriptAdvaced/10LatihanFilterMapReduce" />
+    <property name="last_opened_file_path" value="$USER_HOME$/GitHub/BigProject-WebDesign" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -180,7 +179,10 @@
       <workItem from="1588074526773" duration="161000" />
       <workItem from="1588255550822" duration="2274000" />
       <workItem from="1588324049556" duration="6287000" />
-      <workItem from="1588412612152" duration="2373000" />
+      <workItem from="1588412612152" duration="2536000" />
+      <workItem from="1588596452316" duration="1087000" />
+      <workItem from="1588838312087" duration="4581000" />
+      <workItem from="1589081568810" duration="5147000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -329,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588074635474</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Menyelesaikan materi tentang destructuring assignment dan destructuring function">
+      <created>1588417871401</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1588417871401</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +377,8 @@
     <MESSAGE value="Menambahkan todoApp, lupa aku commit kayaknya wkw" />
     <MESSAGE value="Cek, apa ini kok banyak sekali" />
     <MESSAGE value="Menambahkan materi baru tentang template literal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan materi baru tentang template literal" />
+    <MESSAGE value="Menyelesaikan materi tentang destructuring assignment dan destructuring function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menyelesaikan materi tentang destructuring assignment dan destructuring function" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Deployment" timestamp="1584796905059">
@@ -383,16 +393,20 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="27" key="#JavaScript/0.27.1366.741@0.27.1366.741" timestamp="1585391867206" />
-    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1588413782067">
+    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1589081663301">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="246" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868424098" />
     <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345675038" />
-    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1588413782067" />
+    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1589081663301" />
     <state x="149" y="76" width="1102" height="613" key="DiffContextDialog" timestamp="1584778160557">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="149" y="76" width="1102" height="613" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1584778160557" />
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1588417901321">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1588417901321" />
     <state x="266" y="134" width="824" height="533" key="IDE.errors.dialog" timestamp="1585454150432">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
