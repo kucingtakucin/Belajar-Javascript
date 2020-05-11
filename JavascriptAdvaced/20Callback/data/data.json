@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Adam Arthur Faizal",
+        "nim": "M1",
+        "jurusan": "Teknik Informatika",
+        "Angkatan": 2019
+    },
+    {
+        "nama": "Aksal Syah Falah",
+        "nim": "M2",
+        "jurusan": "Teknik Informatika",
+        "Angkatan": 2019
+    },
+    {
+        "nama": "Aqil Satria Ramadhanu",
+        "nim": "M3",
+        "jurusan": "Teknik Informatika",
+        "Angkatan": 2019
+    },
+    {
+        "nama": "Sari Eka Nur Marifah",
+        "nim": "M4",
+        "jurusan": "Teknik Informatika",
+        "Angkatan": 2019
+    },
+    {
+        "nama": "Tri Wulandari",
+        "nim": "M5",
+        "jurusan": "Teknik Informatika",
+        "Angkatan": 2019
+    }
+]

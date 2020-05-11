@@ -1,13 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="Menyelesaikan materi tentang destructuring assignment dan destructuring function">
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/16ForOfForIn/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/16ForOfForIn/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/17SpreadOperator/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/17SpreadOperator/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/18RestParameter/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/18RestParameter/script.js" afterDir="false" />
+    <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/19AsynchronousJavascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/19AsynchronousJavascript/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/20Callback/data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/20Callback/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/20Callback/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/22Promise/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/22Promise/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/22Promise/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HelloAdamJavascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HelloAdamJavascript.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +103,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/GitHub/BigProject-WebDesign" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavascriptAdvaced/22Promise" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -76,11 +124,11 @@
       <recent name="$PROJECT_DIR$/HelloAdam/01MenulisJavascript" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavascriptAdvaced/22Promise" />
+      <recent name="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan" />
       <recent name="$PROJECT_DIR$/JavascriptAdvaced/10LatihanFilterMapReduce" />
       <recent name="$PROJECT_DIR$/MainMain" />
       <recent name="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2" />
-      <recent name="$PROJECT_DIR$/Mandiri" />
-      <recent name="$PROJECT_DIR$/Mandiri/09BelajarAJAX" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.script.js (2)">
@@ -182,7 +230,9 @@
       <workItem from="1588412612152" duration="2536000" />
       <workItem from="1588596452316" duration="1087000" />
       <workItem from="1588838312087" duration="4581000" />
-      <workItem from="1589081568810" duration="5147000" />
+      <workItem from="1589081568810" duration="10307000" />
+      <workItem from="1589117536511" duration="3225000" />
+      <workItem from="1589156246901" duration="8029000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -338,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588417871401</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Menambah materi tentang For in For of, Spread Operator, dan Rest Parameter">
+      <created>1589093095052</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1589093095052</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +435,8 @@
     <MESSAGE value="Cek, apa ini kok banyak sekali" />
     <MESSAGE value="Menambahkan materi baru tentang template literal" />
     <MESSAGE value="Menyelesaikan materi tentang destructuring assignment dan destructuring function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menyelesaikan materi tentang destructuring assignment dan destructuring function" />
+    <MESSAGE value="Menambah materi tentang For in For of, Spread Operator, dan Rest Parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambah materi tentang For in For of, Spread Operator, dan Rest Parameter" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Deployment" timestamp="1584796905059">
@@ -393,12 +451,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="27" key="#JavaScript/0.27.1366.741@0.27.1366.741" timestamp="1585391867206" />
-    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1589081663301">
+    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1589093094429">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="246" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868424098" />
     <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345675038" />
-    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1589081663301" />
+    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1589093094429" />
     <state x="149" y="76" width="1102" height="613" key="DiffContextDialog" timestamp="1584778160557">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
