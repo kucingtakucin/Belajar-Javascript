@@ -20,42 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/19AsynchronousJavascript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/19AsynchronousJavascript/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/20Callback/data/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/20Callback/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/20Callback/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/bootstrap-4.4.1-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/22Promise/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/22Promise/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/22Promise/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HelloAdamJavascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HelloAdamJavascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/23ErrorHandling/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/23ErrorHandling/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,19 +82,19 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/JavascriptAdvaced" />
-      <recent name="$PROJECT_DIR$/Mandiri/01ImageGallery/SASS" />
-      <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/full" />
-      <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/thumb" />
-      <recent name="$PROJECT_DIR$/HelloAdam/01MenulisJavascript" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/JavascriptAdvaced/22Promise" />
       <recent name="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan" />
       <recent name="$PROJECT_DIR$/JavascriptAdvaced/10LatihanFilterMapReduce" />
       <recent name="$PROJECT_DIR$/MainMain" />
       <recent name="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavascriptAdvaced/23ErrorHandling" />
+      <recent name="$PROJECT_DIR$/JavascriptAdvaced" />
+      <recent name="$PROJECT_DIR$/Mandiri/01ImageGallery/SASS" />
+      <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/full" />
+      <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/thumb" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.script.js (2)">
@@ -232,7 +198,9 @@
       <workItem from="1588838312087" duration="4581000" />
       <workItem from="1589081568810" duration="10307000" />
       <workItem from="1589117536511" duration="3225000" />
-      <workItem from="1589156246901" duration="8029000" />
+      <workItem from="1589156246901" duration="9314000" />
+      <workItem from="1589168719079" duration="674000" />
+      <workItem from="1590055270779" duration="1911000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -395,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589093095052</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Javascript pun punya janji wkwk">
+      <created>1589165961347</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1589165961347</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,7 +411,8 @@
     <MESSAGE value="Menambahkan materi baru tentang template literal" />
     <MESSAGE value="Menyelesaikan materi tentang destructuring assignment dan destructuring function" />
     <MESSAGE value="Menambah materi tentang For in For of, Spread Operator, dan Rest Parameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menambah materi tentang For in For of, Spread Operator, dan Rest Parameter" />
+    <MESSAGE value="Javascript pun punya janji wkwk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javascript pun punya janji wkwk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Deployment" timestamp="1584796905059">
@@ -451,12 +427,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="27" key="#JavaScript/0.27.1366.741@0.27.1366.741" timestamp="1585391867206" />
-    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1589093094429">
+    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1589165959929">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="246" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868424098" />
     <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345675038" />
-    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1589093094429" />
+    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1589165959929" />
     <state x="149" y="76" width="1102" height="613" key="DiffContextDialog" timestamp="1584778160557">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -473,12 +449,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584797126105" />
-    <state x="310" y="99" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1588074663034">
+    <state x="310" y="99" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1589167277655">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="349" y="271" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868445471" />
     <state x="1857" y="355" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345683286" />
-    <state x="310" y="99" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1588074663034" />
+    <state x="310" y="99" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1589167277655" />
     <state x="347" y="174" key="run.anything.popup" timestamp="1588413192512">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
