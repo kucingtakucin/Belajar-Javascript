@@ -20,8 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/23ErrorHandling/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/23ErrorHandling/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/css/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/img/palu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/img/palu1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/img/palu2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/img/tanah.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/img/tikus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +40,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Sass File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="Sass File" />
       </list>
     </option>
   </component>
@@ -69,7 +77,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavascriptAdvaced/22Promise" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/img" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -82,19 +90,19 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/JavascriptAdvaced/22Promise" />
-      <recent name="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan" />
-      <recent name="$PROJECT_DIR$/JavascriptAdvaced/10LatihanFilterMapReduce" />
-      <recent name="$PROJECT_DIR$/MainMain" />
-      <recent name="$PROJECT_DIR$/JavascriptAdvaced/07ArrowFunction2" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/JavascriptAdvaced/23ErrorHandling" />
       <recent name="$PROJECT_DIR$/JavascriptAdvaced" />
       <recent name="$PROJECT_DIR$/Mandiri/01ImageGallery/SASS" />
       <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/full" />
       <recent name="$PROJECT_DIR$/JavascriptDOM/09EventBubbling/img/thumb" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/img" />
+      <recent name="$PROJECT_DIR$/JavascriptAdvaced/22Promise" />
+      <recent name="$PROJECT_DIR$/JavascriptAdvaced/21CallbackLatihan" />
+      <recent name="$PROJECT_DIR$/JavascriptAdvaced/10LatihanFilterMapReduce" />
+      <recent name="$PROJECT_DIR$/MainMain" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.script.js (2)">
@@ -200,7 +208,8 @@
       <workItem from="1589117536511" duration="3225000" />
       <workItem from="1589156246901" duration="9314000" />
       <workItem from="1589168719079" duration="674000" />
-      <workItem from="1590055270779" duration="1911000" />
+      <workItem from="1590055270779" duration="1955000" />
+      <workItem from="1590406430793" duration="5849000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -370,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589165961347</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Menambahkan error handling. Kosong sih wkwk">
+      <created>1590057453359</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1590057453359</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +428,8 @@
     <MESSAGE value="Menyelesaikan materi tentang destructuring assignment dan destructuring function" />
     <MESSAGE value="Menambah materi tentang For in For of, Spread Operator, dan Rest Parameter" />
     <MESSAGE value="Javascript pun punya janji wkwk" />
-    <option name="LAST_COMMIT_MESSAGE" value="Javascript pun punya janji wkwk" />
+    <MESSAGE value="Menambahkan error handling. Kosong sih wkwk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan error handling. Kosong sih wkwk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Deployment" timestamp="1584796905059">
@@ -427,12 +444,11 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="27" key="#JavaScript/0.27.1366.741@0.27.1366.741" timestamp="1585391867206" />
-    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1589165959929">
+    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590057452128">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="246" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868424098" />
     <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345675038" />
-    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1589165959929" />
+    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1590057452128" />
     <state x="149" y="76" width="1102" height="613" key="DiffContextDialog" timestamp="1584778160557">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -449,12 +465,11 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584797126105" />
-    <state x="310" y="99" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1589167277655">
+    <state x="310" y="99" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1590057459478">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="349" y="271" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1580868445471" />
     <state x="1857" y="355" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345683286" />
-    <state x="310" y="99" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1589167277655" />
+    <state x="310" y="99" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590057459478" />
     <state x="347" y="174" key="run.anything.popup" timestamp="1588413192512">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
