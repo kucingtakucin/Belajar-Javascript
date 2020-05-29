@@ -21,7 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="db2fcef4-f0fa-4b1c-9b92-bc840768f1e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/css/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/css/style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavascriptAdvaced/24WhackAMole/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +205,8 @@
       <workItem from="1589168719079" duration="674000" />
       <workItem from="1590055270779" duration="1955000" />
       <workItem from="1590406430793" duration="5883000" />
-      <workItem from="1590500169058" duration="1472000" />
+      <workItem from="1590500169058" duration="1502000" />
+      <workItem from="1590755201284" duration="4674000" />
     </task>
     <task id="LOCAL-00001" summary="Menambahkan materi baru">
       <created>1579323398131</created>
@@ -385,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590412577806</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Melanjutkan pengerjaan game">
+      <created>1590502690189</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1590502690189</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,7 +441,8 @@
     <MESSAGE value="Javascript pun punya janji wkwk" />
     <MESSAGE value="Menambahkan error handling. Kosong sih wkwk" />
     <MESSAGE value="Permulaan membuat game pukul tikus tanah" />
-    <option name="LAST_COMMIT_MESSAGE" value="Permulaan membuat game pukul tikus tanah" />
+    <MESSAGE value="Melanjutkan pengerjaan game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Melanjutkan pengerjaan game" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Deployment" timestamp="1584796905059">
@@ -444,11 +457,11 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="27" key="#JavaScript/0.27.1366.741@0.27.1366.741" timestamp="1585391867206" />
-    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590412577074">
+    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590502688740">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1712" y="0" width="996" height="990" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584345675038" />
-    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1590412577074" />
+    <state x="246" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1590502688740" />
     <state x="149" y="76" width="1102" height="613" key="DiffContextDialog" timestamp="1584778160557">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

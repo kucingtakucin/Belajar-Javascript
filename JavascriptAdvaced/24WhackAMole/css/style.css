@@ -1,17 +1,22 @@
 /*
  * Copyright (c) 2020. Adam Arthur Faizal
  */
-header h1 {
-  font-family: "Arial", sans-serif;
+body {
+  min-height: 100vh;
 }
 
-main .container .container-2 .tanah {
+header .container h1, header .container h2 {
+  font-family: "Arial", sans-serif;
+  font-size: 60px;
+}
+
+main .container .tanah {
   width: 250px;
   height: 200px;
   position: relative;
   overflow: hidden;
 }
-main .container .container-2 .tanah::after {
+main .container .tanah::after {
   content: "";
   display: block;
   width: 250px;
@@ -21,7 +26,7 @@ main .container .container-2 .tanah::after {
   position: absolute;
   bottom: -25px;
 }
-main .container .container-2 .tikus {
+main .container .tikus {
   width: 100%;
   height: 100%;
   background: url("../img/tikus.png") bottom center no-repeat;
@@ -30,7 +35,7 @@ main .container .container-2 .tikus {
   position: absolute;
   transition: top 0.5s;
 }
-main .container .container-2 .tanah.muncul .tikus {
+main .container .tanah.muncul .tikus {
   top: -50px;
 }
 
